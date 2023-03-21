@@ -1,9 +1,5 @@
 # CustomEmacs
-Custom Emacs configuration is a set of parameters, keyboard shortcuts, and extension modules that allow the user to customize the appearance, behavior, and features of the Emacs text editor.
-# Custom Emacs 
-
-
-Custom Emacs configuration is a set of parameters, keyboard shortcuts, and extension modules that allow the user to customize the appearance, behavior, and features of the Emacs text editor.
+CustomEmacs configuration is a set of parameters, keyboard shortcuts, and extension modules that allow the user to customize the appearance, behavior, and features of the Emacs text editor.
 
 ## Features
 - ctrl + p: previous line (or previous command in history)
