@@ -49,6 +49,8 @@ So to open a c++ file, you do:
 - ctrl + x, ctrl + c: exit Emacs
 - ctrl + v: scroll down
 - meta + v: scroll up
+- meta+x: to launch commands: replace, find, execute, launch firefox, launch youtube, change modes, load autocomplete,... you can do a lot of things
+- meta+x shell launches a terminal inside emacs
 
 ## Mandatory
 
