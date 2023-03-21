@@ -55,9 +55,7 @@ So to open a c++ file, you do:
 You must have emacs installed
 
 dnf :
-```sudo dnf update```
-```sudo dnf install emacs```
+```sudo dnf update && sudo dnf install emacs```
 
 apt :
-```sudo apt update```
-```sudo apt install emacs```
+```sudo apt update && sudo apt install emacs```
