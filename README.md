@@ -59,6 +59,7 @@ dnf :
 
 apt :
 ```sudo apt update && sudo apt install emacs```
+
 ---
 
 ######  All rights go to Alexandre REYNAERT who created this Emacs configuration.
